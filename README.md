@@ -11,14 +11,14 @@ Programmed this project using Java
 ### Things required to run this program
 Use any command line interface such as command prompt, or if you will be using Linux, just open the terminal :-  
 
-$ javac *.java //this will be necessary as the files do not have its own class files yet
-$ java TestBinaryTree //runs the test harness program
+$ javac *.java - this will be necessary as the files do not have its own class files yet  
+$ java TestBinaryTree - runs the test harness program
 
 
 #### Features of the program AND how to use it
 There will be a main menu for the user to choose from its options
 
-// Options are listed down below:
+__Options are listed down below:__
 1. Reading a CSV file
 2. Reading a serialized file
 3. Display the tree
